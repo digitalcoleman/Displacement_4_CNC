@@ -2,6 +2,8 @@
 ### A short guide to using Blender and displacement Maps for making surfaces for CNC Milling
 An example file is available in the repository if you just want to use it and adjust the texture or sizing.
 
+![screenShot](./images/screenShot.png)
+
 Blender Instructions:
 1. Goto the scene Tab on the right panel and change the Units Preset to Inches
 2. Select the cube, press n to bring up the Number panel and type in the size of your wood block minus what you plan to cnc

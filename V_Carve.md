@@ -49,7 +49,7 @@ We will be doing 2 passes - the Roughing Pass and the Finish Pass
 ## 4 - Preview your tool paths
 You can see what your settings will do through a visual preview of the material and tool path. This is where you can test your settings before you send to ShopBot. Imperative you watch the preview to be sure your settings look successful.
 
-![screenShot](./images/toolPathMenu_pre.JPG)
+![screenShot](./images/toolpathMenu_pre.JPG)
 
 You can check your time estimate as well:
 

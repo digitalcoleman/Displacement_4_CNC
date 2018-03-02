@@ -22,7 +22,7 @@ Note that model should be a little bit bigger than material to account for “bl
 - Set the X or Y size on the model and it should resize the height appropriately.
 - If the "Depth Below Top" is more than 1.75 your model is too tall and you must scale it down on the z axis in Blender!
 
-![screenShot](./images/orientModel.JPG)
+![screenShot](./images/OrientModel.JPG)
 
 ## 2.1 - Check your Z-clearances
 For our material and bits, we want to stay low to the surface. We need to confirm those settings in the Material Setup, located at the top of the Toolpaths menu:
